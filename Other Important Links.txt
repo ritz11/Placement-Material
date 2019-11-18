@@ -1,0 +1,4 @@
+OOPS:
+	https://www.javatpoint.com/corejava-interview-questions
+Databases:
+	https://www.interviewbit.com/sql-interview-questions/
